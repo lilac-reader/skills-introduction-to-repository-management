@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @lilac-reader
+/src/backend/database.py      @lilac-reader
+/src/backend/routers/auth.py  @lilac-reader
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @lilac-reader
